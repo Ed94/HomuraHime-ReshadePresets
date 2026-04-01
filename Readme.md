@@ -1,5 +1,9 @@
 # Homura Hime Reshade Presets
 
+## Quick Reference
+
+![img](./Gallery/HomuraHimeShaders%20Comparison.png)
+
 ## Filmic and Sharpen
 
 ![img](./Gallery/HomuraHime_2026-03-28_21-06-47.jpg)
