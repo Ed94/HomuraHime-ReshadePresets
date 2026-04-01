@@ -1,5 +1,14 @@
 # Homura Hime Reshade Presets
 
+## Instructions
+
+1. Download the latest version of Reshade from the official website: https://reshade.me/
+2. Install reshade to Homura Hime app install location or [ShaderGlass](https://github.com/mausimus/ShaderGlass)
+   * ![img](./Gallery/Instructions_ReshadeInstall.png)
+3. Drag and drop desired presets and dependent reshade-shaders directory to installed reshade directory
+   * ![img](./Gallery/Instructions_DragAndDrop.png)
+   
+
 ## Quick Reference
 
 ![img](./Gallery/HomuraHimeShaders%20Comparison.png)
