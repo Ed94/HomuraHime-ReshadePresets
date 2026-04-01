@@ -1,6 +1,6 @@
 ﻿CrimsonDusk
 HomuraHime_BurstDebugInformation_DoNotShip
-reshade-shaders
+reshade-shaders/**
 MonoBleedingEdge
 HomuraHime_Data
 dxgi.dll
@@ -8,3 +8,38 @@ HomuraHime.exe
 ReShade.log
 UnityCrashHandler64.exe
 UnityPlayer.dll
+!reshade-shaders/Shaders/Ann-ReShade/DINN - BASE.fx
+!reshade-shaders/Shaders/Ann-ReShade/DINN - DIFF.fx
+!reshade-shaders/Shaders/Ann-ReShade/DINN - GAUSS.fx
+!reshade-shaders/Shaders/CRT-Royale/crt-royale.fx
+!reshade-shaders/Shaders/DH/dh_ambient_remove.fx
+!reshade-shaders/Shaders/Fubax/FilmicSharpen.fx
+!reshade-shaders/Shaders/Fubax/Prism.fx
+!reshade-shaders/Shaders/Insane-Shaders/BilateralCS.fx
+!reshade-shaders/Shaders/Insane-Shaders/Oilify.fx
+!reshade-shaders/Shaders/LumeniteFX/lumenite_AnamorphicBloom.fx
+!reshade-shaders/Shaders/LumeniteFX/lumenite_Kernel.fx
+!reshade-shaders/Shaders/OtisFX/PandaFX.fx
+!reshade-shaders/Shaders/SHADERDECK/SHADERDECK/FILMDECK.fx
+!reshade-shaders/Shaders/SHADERDECK/SHADERDECK/FSR1_2X.fx
+!reshade-shaders/Shaders/SHADERDECK/SuperDepth3D.fx
+!reshade-shaders/Shaders/SweetFX/CAS.fx
+!reshade-shaders/Shaders/SweetFX/Curves.fx
+!reshade-shaders/Shaders/SweetFX/FilmGrain.fx
+!reshade-shaders/Shaders/SweetFX/FXAA.fx
+!reshade-shaders/Shaders/SweetFX/Vignette.fx
+!reshade-shaders/Shaders/SweetFX/CRT.fx
+!reshade-shaders/Shaders/brussell/BaBa_DAA.fx
+!reshade-shaders/Shaders/brussell/BaBa_JaSharpen.fx
+!reshade-shaders/Shaders/brussell/BaBa_PHDR.fx
+!reshade-shaders/Shaders/brussell/BaBa_S_Outline.fx
+!reshade-shaders/Textures/Ann-ReShade/HDR_LA_3.png
+!reshade-shaders/Textures/DH/dh_rt_noise.png
+!reshade-shaders/Textures/LumeniteFX/lumenite_bluenoise256.png
+!reshade-shaders/Textures/OtisFX/hd_noise.png
+!reshade-shaders/Textures/SHADERDECK/SHADERDECK/Grain/Grain.png
+!reshade-shaders/Textures/SHADERDECK/SHADERDECK/LUTs/StandardNegativeAtlas.png
+!reshade-shaders/Textures/SHADERDECK/SHADERDECK/LUTs/StandardPrintAtlas.png
+!reshade-shaders/Textures/SweetFX/AreaTex.png
+!reshade-shaders/Textures/SweetFX/SearchTex.png
+!reshade-shaders/Textures/brussell/UIDetectMaskRGB.png
